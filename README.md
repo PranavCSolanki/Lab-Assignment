@@ -24,5 +24,8 @@ javac Filename.javac
 java Filename
 ```
 
+## Screen Shot 
+
+![image](https://user-images.githubusercontent.com/110283311/202613330-cb1212a1-ae95-4c95-b796-78b0cd7c29f7.png)
 
 
